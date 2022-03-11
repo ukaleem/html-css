@@ -5,7 +5,7 @@
 
 }
 body{
-    background: url(/daTA/1.jpg);
+    background: url('./data/1.jpg');
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
